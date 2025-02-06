@@ -1,0 +1,13 @@
+.header-title {
+  color: var(--white, #fff);
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 120px;
+}
+
+.is-active {
+  color: var(--dark-blue);
+  background: var(--yellow);
+  transition: 0.5s;
+}

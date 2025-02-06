@@ -22,3 +22,9 @@ video {
   display: block;
   max-width: 100%;
 }
+
+body {
+  color: var(--dark-blue, #005564);
+  font-family: "Francois One";
+  text-align: center;
+}
